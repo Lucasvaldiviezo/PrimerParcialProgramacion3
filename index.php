@@ -1,5 +1,5 @@
 <?php
 
-echo 'hola';
+echo 'Probando el Parcial de programacion';
 
 ?>
